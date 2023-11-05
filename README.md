@@ -7,27 +7,22 @@ Designed Movie Recommand System with UML
 
 ## 📝 Description 
 
-Based on what I learned in the software engineering course, I perform 
+I perform software system design using UML tools : 'movie recommendation system' 
 
-software system design using UML tools. The system is set as a 'movie 
+After specifying the requirements, defined entities, created a use case diagram,
 
-recommendation system.' After specifying the requirements, defining entities, 
+and set up a domain model, I documented class diagrams. Also, I designed a sequence diagram
 
-creating a use case diagram, and setting up a domain model, I have written 
+and state diagram, and Activity diagram at both the system and method levels. 
 
-a class diagram. Based on this, I have created a sequence diagram and additionally 
 
-selected two classes to create a state diagram. Finally, I have enhanced visibility 
+This system was inspired by Netflix. Users of the system can browse information about 
 
-by creating an Activity diagram at both the system and method levels. This system is 
+movies, check details about actors and directors, and receive movie recommendations 
 
-inspired by online movie streaming websites like Netflix. Users of the system can browse 
+from administrators based on their ratings. Administrators can manage the 
 
-information about movies, check details about actors and directors, and receive movie 
-
-recommendations from administrators based on their ratings. Administrators can manage the 
-
-database, allowing them to add, modify, or remove new movies, directors, and actors.
+databases, allowing them to add, modify, or remove new movies, directors, and actors.
 
 
 
